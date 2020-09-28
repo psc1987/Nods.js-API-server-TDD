@@ -21,8 +21,8 @@ $ npm install morgan
   
  
 ### npm
-
-  
+dependencies 확인
+  - [package.json](https://github.com/psc1987/Nods.js-API-server-TDD/blob/master/package.json)
   
   
 ### REST API
