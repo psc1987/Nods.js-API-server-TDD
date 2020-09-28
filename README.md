@@ -2,8 +2,8 @@
 테스트주도개발(TDD)로 만드는 NodeJS API 서버
 
 ### Node 
-  - [모듈](https://github.com/psc1987/Nods.js-API-server-TDD/index.js)
-  - [비동기](https://github.com/psc1987/Nods.js-API-server-TDD/index1.js)
+  - [모듈](https://github.com/psc1987/Nods.js-API-server-TDD/blob/master/index.js)
+  - [비동기](https://github.com/psc1987/Nods.js-API-server-TDD/blob/master/index1.js)
 
 
 
