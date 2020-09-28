@@ -1,4 +1,4 @@
-// 작성함 sum함수 모듈사용
+// index.js 에서 작성한 sum함수 모듈사용
 const math = require('./index.js');
 
 const result = math.sum(1, 4);
