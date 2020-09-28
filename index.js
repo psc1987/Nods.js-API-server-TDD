@@ -14,3 +14,6 @@ function sum(a, b) {
 module.exports = {
     sum: sum
 }
+
+
+// 만들어진 모듈사용은 index1.js 
