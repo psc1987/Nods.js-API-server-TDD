@@ -27,4 +27,5 @@ dependencies 확인
   
 ### REST API
   - [요청, 응답](https://github.com/psc1987/Nods.js-API-server-TDD/blob/master/rest.js)
+----
 [**사용자 목록 조회 API 만들기**](https://github.com/psc1987/Nods.js-API-server-TDD/blob/master/users.js)
