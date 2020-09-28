@@ -8,7 +8,7 @@
 
 
 ### 서버 연결 해보기
-  - 서버 연결, Routing추가
+  - [서버 연결, Routing추가](https://github.com/psc1987/Nods.js-API-server-TDD/blob/master/hello.js)
   
   
   
