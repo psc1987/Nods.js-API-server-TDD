@@ -34,8 +34,7 @@ dependencies 확인
 ### TDD
   - [TDD란?](https://github.com/psc1987/Nods.js-API-server-TDD/blob/master/tdd.txt)
   
- [공통 테스트 함수모듈.js](https://github.com/psc1987/Nods.js-API-server-TDD/blob/master/utils.js)
-  - [Mocha]
+  - Mocha
   
     [https://mochajs.org/](https://mochajs.org/)
     
@@ -45,5 +44,34 @@ $ npm install mocha --save-dev
 $ node_modules/.bin/mocha utils.spec.js
 ```
 
-  - [Should]
+[utils.js](https://github.com/psc1987/Nods.js-API-server-TDD/blob/master/utils.js)
+
+[utils.spec.js](https://github.com/psc1987/Nods.js-API-server-TDD/blob/master/utils.spec.js)
+
+  - Should
+  
+    [https://github.com/tj/should.js/](https://github.com/tj/should.js/)
+    
+    
+  ```sh
+$ npm install should --save-dev
+$ node_modules/.bin/mocha utils.spec.js
+```
+
+[utils1.js](https://github.com/psc1987/Nods.js-API-server-TDD/blob/master/utils1.js)
+
+[utils1.spec.js](https://github.com/psc1987/Nods.js-API-server-TDD/blob/master/utils1.spec.js)
+  
   - [Supertest]
+  
+    [https://github.com/visionmedia/supertest](https://github.com/visionmedia/supertest)
+    
+  ```sh
+$ npm install supertest --save-dev
+$ node_modules/.bin/mocha utils.spec.js
+```
+
+[users1.js](https://github.com/psc1987/Nods.js-API-server-TDD/blob/master/users1.js)
+
+[users1.spec.js](https://github.com/psc1987/Nods.js-API-server-TDD/blob/master/users1.spec.js)
+  
