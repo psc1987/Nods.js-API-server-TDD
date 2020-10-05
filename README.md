@@ -33,11 +33,17 @@ dependencies 확인
 
 ### TDD
   - [TDD란?](https://github.com/psc1987/Nods.js-API-server-TDD/blob/master/tdd.txt)
+  
+ [공통 테스트 함수모듈.js](https://github.com/psc1987/Nods.js-API-server-TDD/blob/master/utils.js)
   - [Mocha]
+  
+    [https://mochajs.org/](https://mochajs.org/)
+    
+    
   ```sh
 $ npm install mocha --save-dev
 $ node_modules/.bin/mocha utils.spec.js
 ```
-  [https://mochajs.org/](https://mochajs.org/)
+
   - [Should]
   - [Supertest]
