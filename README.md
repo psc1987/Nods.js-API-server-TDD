@@ -34,7 +34,9 @@ dependencies 확인
 ### TDD
   - [TDD란?](https://github.com/psc1987/Nods.js-API-server-TDD/blob/master/tdd.txt)
   - [Mocha]
-  
+  ```sh
+$ npm install mocha --save-dev
+```
   [https://mochajs.org/](https://mochajs.org/)
   - [Should]
   - [Supertest]
