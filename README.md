@@ -36,6 +36,7 @@ dependencies 확인
   - [Mocha]
   ```sh
 $ npm install mocha --save-dev
+$ node_modules/.bin/mocha utils.spec.js
 ```
   [https://mochajs.org/](https://mochajs.org/)
   - [Should]
