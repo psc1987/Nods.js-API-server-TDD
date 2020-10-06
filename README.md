@@ -60,7 +60,7 @@ $ npm install should --save-dev
 $ node_modules/.bin/mocha utils.spec.js
 ```
 
-[utils1.js](https://github.com/psc1987/Nods.js-API-server-TDD/blob/master/utils1.js)
+[utils.js](https://github.com/psc1987/Nods.js-API-server-TDD/blob/master/utils.js)
 
 [utils1.spec.js](https://github.com/psc1987/Nods.js-API-server-TDD/blob/master/utils1.spec.js)
   
