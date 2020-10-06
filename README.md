@@ -34,6 +34,8 @@ dependencies 확인
 ### TDD
   - [TDD란?](https://github.com/psc1987/Nods.js-API-server-TDD/blob/master/tdd.txt)
   
+ /node_modules/.bin 에서 mocha 명령어로 실행
+  
   - Mocha
   
     [https://mochajs.org/](https://mochajs.org/)
@@ -62,7 +64,7 @@ $ node_modules/.bin/mocha utils.spec.js
 
 [utils1.spec.js](https://github.com/psc1987/Nods.js-API-server-TDD/blob/master/utils1.spec.js)
   
-  - [Supertest]
+  - Supertest
   
     [https://github.com/visionmedia/supertest](https://github.com/visionmedia/supertest)
     
@@ -74,4 +76,7 @@ $ node_modules/.bin/mocha utils.spec.js
 [users1.js](https://github.com/psc1987/Nods.js-API-server-TDD/blob/master/users1.js)
 
 [users1.spec.js](https://github.com/psc1987/Nods.js-API-server-TDD/blob/master/users1.spec.js)
+
+### TDD 활용
+  - 사용자 목록 조회 API 테스트 코드 
   
